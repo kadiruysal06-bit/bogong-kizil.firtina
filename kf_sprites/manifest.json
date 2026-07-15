@@ -1,0 +1,24 @@
+{
+  "frame": 288,
+  "logical": 72,
+  "angles": 16,
+  "angle_offset": 0,
+  "teams": 3,
+  "units": {
+    "tank": {
+      "file": "tank_t{team}.png"
+    },
+    "heavy": {
+      "file": "heavy_t{team}.png"
+    },
+    "harv": {
+      "file": "harv_t{team}.png"
+    },
+    "arty": {
+      "file": "arty_t{team}.png"
+    },
+    "boat": {
+      "file": "boat_t{team}.png"
+    }
+  }
+}
