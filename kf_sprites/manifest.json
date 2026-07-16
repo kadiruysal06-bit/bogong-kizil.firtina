@@ -1,0 +1,37 @@
+{
+  "frame": 288,
+  "logical": 72,
+  "angles": 16,
+  "angle_offset": 0,
+  "teams": [
+    0,
+    1,
+    2
+  ],
+  "units": {
+    "rifle": {
+      "file": "rifle_t{team}.png"
+    },
+    "rocket": {
+      "file": "rocket_t{team}.png"
+    },
+    "tank": {
+      "file": "tank_t{team}.png"
+    },
+    "heavy": {
+      "file": "heavy_t{team}.png"
+    },
+    "harv": {
+      "file": "harv_t{team}.png"
+    },
+    "arty": {
+      "file": "arty_t{team}.png"
+    },
+    "boat": {
+      "file": "boat_t{team}.png"
+    },
+    "heli": {
+      "file": "heli_t{team}.png"
+    }
+  }
+}
