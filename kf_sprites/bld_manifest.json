@@ -1,0 +1,293 @@
+{
+  "_spec": {
+    "aciklama": "Kızıl Fırtına bina döküm manifesti",
+    "dosya_adi": "bld_<anahtar>_t<takım>.png",
+    "serit": "kareler yatay dizilir",
+    "kamera": "ortografik dimetrik 2:1"
+  },
+  "conyard": {
+    "tiles": [
+      3,
+      3
+    ],
+    "govde_ht": 42,
+    "logical": [
+      208,
+      178
+    ],
+    "render_px": [
+      624,
+      534
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "power": {
+    "tiles": [
+      2,
+      2
+    ],
+    "govde_ht": 34,
+    "logical": [
+      144,
+      138
+    ],
+    "render_px": [
+      432,
+      414
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "refinery": {
+    "tiles": [
+      3,
+      2
+    ],
+    "govde_ht": 32,
+    "logical": [
+      176,
+      152
+    ],
+    "render_px": [
+      528,
+      456
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "barracks": {
+    "tiles": [
+      2,
+      2
+    ],
+    "govde_ht": 22,
+    "logical": [
+      144,
+      126
+    ],
+    "render_px": [
+      432,
+      378
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "factory": {
+    "tiles": [
+      3,
+      2
+    ],
+    "govde_ht": 42,
+    "logical": [
+      176,
+      162
+    ],
+    "render_px": [
+      528,
+      486
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "depot": {
+    "tiles": [
+      2,
+      2
+    ],
+    "govde_ht": 18,
+    "logical": [
+      144,
+      122
+    ],
+    "render_px": [
+      432,
+      366
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "radar": {
+    "tiles": [
+      2,
+      2
+    ],
+    "govde_ht": 32,
+    "logical": [
+      144,
+      136
+    ],
+    "render_px": [
+      432,
+      408
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "airbase": {
+    "tiles": [
+      4,
+      3
+    ],
+    "govde_ht": 18,
+    "logical": [
+      240,
+      170
+    ],
+    "render_px": [
+      720,
+      510
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "nuclear": {
+    "tiles": [
+      3,
+      3
+    ],
+    "govde_ht": 36,
+    "logical": [
+      208,
+      172
+    ],
+    "render_px": [
+      624,
+      516
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "shipyard": {
+    "tiles": [
+      3,
+      2
+    ],
+    "govde_ht": 28,
+    "logical": [
+      176,
+      148
+    ],
+    "render_px": [
+      528,
+      444
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "heliport": {
+    "tiles": [
+      3,
+      3
+    ],
+    "govde_ht": 16,
+    "logical": [
+      208,
+      152
+    ],
+    "render_px": [
+      624,
+      456
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "dronebase": {
+    "tiles": [
+      2,
+      2
+    ],
+    "govde_ht": 20,
+    "logical": [
+      144,
+      124
+    ],
+    "render_px": [
+      432,
+      372
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "pylon": {
+    "tiles": [
+      2,
+      2
+    ],
+    "govde_ht": 46,
+    "logical": [
+      144,
+      150
+    ],
+    "render_px": [
+      432,
+      450
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "hive": {
+    "tiles": [
+      4,
+      3
+    ],
+    "govde_ht": 30,
+    "logical": [
+      240,
+      182
+    ],
+    "render_px": [
+      720,
+      546
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  },
+  "ramp": {
+    "tiles": [
+      3,
+      4
+    ],
+    "govde_ht": 52,
+    "logical": [
+      240,
+      204
+    ],
+    "render_px": [
+      720,
+      612
+    ],
+    "frames": 8,
+    "fps": 6,
+    "scale": 3,
+    "dy": 4
+  }
+}
