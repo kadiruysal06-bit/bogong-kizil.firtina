@@ -12,23 +12,20 @@
     "2": "#c9a227"
   },
   "units": {
-    "tank": {
-      "file": "tank_t{team}.png"
-    },
-    "heavy": {
-      "file": "heavy_t{team}.png"
-    },
     "harv": {
       "file": "harv_t{team}.png"
-    },
-    "arty": {
-      "file": "arty_t{team}.png"
     },
     "boat": {
       "file": "boat_t{team}.png"
     },
-    "heli": {
-      "file": "heli_t{team}.png"
+    "jet": {
+      "file": "jet_t{team}.png"
+    },
+    "inter": {
+      "file": "inter_t{team}.png"
+    },
+    "mcv": {
+      "file": "mcv_t{team}.png"
     }
   }
 }
